@@ -20,7 +20,7 @@ This is a very **disco** implementation of [godot-ink](https://github.com/paullo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/gabrielhamdan/godot-discologue.git
 ```
 
 Install the godot-ink addon in your project folder. You can find it in [this repo](https://github.com/paulloz/godot-ink) or at [Godot's asset lib](https://godotengine.org/asset-library/asset/846).
